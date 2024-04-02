@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything & everything, love teamwork
 - 📫 How to reach me ... assuming GitHub has DMs
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... my hearing & kidney function is externalized :robot_face:
+- ⚡ Fun fact: ... my hearing & kidney function is externalized
 
 <!---
 nerdsy1/nerdsy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
